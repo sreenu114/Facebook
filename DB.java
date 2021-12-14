@@ -1,3 +1,3 @@
 Hello Team
 Good Morning
-this first Github class
+This first Github class

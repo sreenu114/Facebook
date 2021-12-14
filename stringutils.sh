@@ -1,2 +1,2 @@
 HI Team
-Git Commeands are very imp
+Git Commeands are very importent
